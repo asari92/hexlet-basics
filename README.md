@@ -1,1 +1,3 @@
 # hexlet-basics
+pizza
+:pizza:
